@@ -1,0 +1,11 @@
+
+# run unicorn
+uvicorn myapi:app --reload
+
+
+
+after finish coding
+
+pip install gunicorn
+
+pip freeze > requirments.txt
